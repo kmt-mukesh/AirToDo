@@ -1,0 +1,9 @@
+/* Define custom scrollbar utility classes */
+.scrollbar-thumb-black {
+    scrollbar-color: black; /* Set scrollbar thumb color */
+  }
+  
+  .scrollbar-track-black {
+    scrollbar-width: thin; /* Set scrollbar width */
+  }
+  
